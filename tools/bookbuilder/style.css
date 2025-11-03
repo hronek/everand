@@ -1,0 +1,8 @@
+/* Minimalistické výchozí styly pro EPUB renderery */
+body { font-family: serif; line-height: 1.4; margin: 0 1em; }
+img { max-width: 100%; height: auto; }
+h1 { page-break-before: always; font-size: 1.6em; margin: 1em 0; }
+h2 { font-size: 1.3em; margin: 1em 0; }
+p { margin: 0.6em 0; }
+ul, ol { margin: 0.6em 1.2em; }
+a { color: inherit; text-decoration: underline; }

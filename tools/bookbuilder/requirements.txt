@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+lxml==5.3.0
+requests==2.32.3
+ebooklib==0.18
+pdfkit==1.0.0
+deep-translator==1.11.4

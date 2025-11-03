@@ -1,0 +1,26 @@
+# VS/Build
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.iml
+
+# Publish výstupy
+**/publish/
+**/Release/
+**/Debug/
+**/book
+
+# WebView2 fixed runtime složky (necommitovat)
+*.WebView2/
+
+# Virt. envy
+.venv/
+
+# Doèasné/logy
+*.log
+*.tmp
