@@ -13,7 +13,6 @@ obj/
 **/publish/
 **/Release/
 **/Debug/
-**/book
 
 # WebView2 fixed runtime složky (necommitovat)
 *.WebView2/
